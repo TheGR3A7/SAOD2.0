@@ -1,0 +1,11 @@
+10
+1 Volkov Zahar Alexeevich 10000 3 3 4 4 3
+2 Medvedev Dmitriy Alexandrovich 10001 5 5 4 4 4 
+3 Zaytsev Alexander Nikolaevich 10002 4 4 4 5 4
+4 Knyazev Alexey Stepanovich 10003 4 4 4 3 5
+5 Kozlov Petr Semenovich 10004 2 2 2 2 3
+6 Kostrov Alexander Stanislavovich 10005 5 5 5 5 5 
+7 Gusev Nikita Andreevich 10006 5 4 5 5 4  
+8 Malkin Evgeniy Vladimirovich 10007 2 2 2 2 2
+9 Pavlov Nikita Sergeevich 10008 4 5 4 4 4
+10 Antipov Anton Pavlovich 10009 2 3 3 4 3
